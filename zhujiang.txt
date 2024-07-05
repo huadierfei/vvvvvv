@@ -1,0 +1,2 @@
+广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
+广东卫视,http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl
